@@ -22,13 +22,19 @@ I completed a cybersecurity internship at **CPX** within the Cyber Resilience De
 
 Hands-on SOC alert triaging and investigation using **Microsoft Sentinel and KQL**.
 
+🔗 [View Project on GitHub](https://github.com/NadaSamer12/SOC-Alert-Triaging-Sentinel)
+
 ### ☁️ Cloud Security Pitfalls
 
 Explored cloud security risks, cloud monitoring, SIEM integration challenges, and common cloud migration security pitfalls.
 
+🔗 [View Project on GitHub](https://github.com/NadaSamer12/Cloud-Security-Pitfalls)
+
 ### 🌐 Web Security Essentials
 
 Explored web application security, access controls, logging, WAF protection, and security monitoring.
+
+🔗 [View Project on GitHub](https://github.com/NadaSamer12/Web-Security-Essentials)
 
 ## 🔬 Research
 
